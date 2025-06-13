@@ -1,0 +1,38 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter Notebooks
+.ipynb_checkpoints/
+
+# Data files (avoid committing large datasets)
+*.csv
+*.json
+*.h5
+*.pkl
+*.npz
+data/
+images/
++.png
+
+# Environment files (sensitive credentials)
+.env
+*.env
+
+# IDE-specific files
+.vscode/
+.idea/
+
+# OS-generated files
+.DS_Store
+Thumbs.db
+
+# Logs and databases
+*.log
+*.sqlite3
+
+# Virtual environment
+venv/
+env/
+
