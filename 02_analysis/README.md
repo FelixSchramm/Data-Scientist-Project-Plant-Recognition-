@@ -11,7 +11,7 @@
 
 
 
-## 1. 
+## 1. Define Project Context and Scope
 For plant type detection 
 For pitures with plants only 
 Multiclass Classification: Which plant is it
