@@ -7,6 +7,7 @@ __pycache__/
 .ipynb_checkpoints/
 
 # Data files (avoid committing large datasets)
+*.xlsx
 *.csv
 *.json
 *.h5
